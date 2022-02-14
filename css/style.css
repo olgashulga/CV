@@ -171,6 +171,11 @@ Work Experience and Education*/
   top: 40px;
   padding: 40px 0;
 }
+.center-img {
+  display: block;
+  margin: 0 auto;
+   width: 370px;
+}
 .contacts-section,
 .tech-skills-section,
 .soft-skills-section {
@@ -183,6 +188,7 @@ Work Experience and Education*/
   line-height: 27px;
   color: #ffffff;
   margin-bottom: 10px;
+  
 }
 
 /* Contacts section type and link */
